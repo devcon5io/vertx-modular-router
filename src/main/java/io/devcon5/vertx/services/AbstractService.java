@@ -34,7 +34,7 @@ public abstract class AbstractService<T extends AbstractService> implements Serv
 
     @Override
     public void setAuthProvider(final AuthProvider authProvider) {
-
+      //not supported
     }
   }));
 
