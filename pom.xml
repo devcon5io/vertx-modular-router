@@ -7,7 +7,7 @@
     <groupId>ch.devcon5.vertx</groupId>
     <artifactId>vertx-modular-router</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
 
     <description>API for modularizing Vert.x Web Services</description>
 
