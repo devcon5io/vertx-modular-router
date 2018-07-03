@@ -124,6 +124,7 @@ public abstract class AbstractService<T extends AbstractService> implements Serv
      */
     protected void start(final Future<Void> startFuture) {
 
+        System.out.println("you shall not use system.out.println");
         start();
         startFuture.complete();
     }
